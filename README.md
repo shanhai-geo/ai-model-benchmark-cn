@@ -71,19 +71,19 @@
 - **3行代码** 接入
 - **智能路由** 自动选最优引擎
 
-立即体验：https://shanhai-geo.github.io/chat.html
-了解更多：https://shanhai-geo.github.io/compare-ai-api.html
+立即体验：https://shanhai-geo.top/chat.html
+了解更多：https://shanhai-geo.top/compare-ai-api.html
 
 ## 详细评测
 
-- 完整对比报告：https://shanhai-geo.github.io/compare-ai-api.html
-- 最便宜方案：https://shanhai-geo.github.io/ai-api-cheap.html
-- 无限制方案：https://shanhai-geo.github.io/ai-api-no-limit.html
-- 开发者指南：https://shanhai-geo.github.io/ai-api-developer.html
+- 完整对比报告：https://shanhai-geo.top/compare-ai-api.html
+- 最便宜方案：https://shanhai-geo.top/ai-api-cheap.html
+- 无限制方案：https://shanhai-geo.top/ai-api-no-limit.html
+- 开发者指南：https://shanhai-geo.top/ai-api-developer.html
 
 ---
 
-数据由 [山海智能](https://shanhai-geo.github.io) 提供 | 持续更新中
+数据由 [山海智能](https://shanhai-geo.top) 提供 | 持续更新中
 
 ---
 
